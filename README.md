@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Electrical Engineering
+<b>Discipline | <b>Electrical Engineeri
 :--|:--|
 <b> Lab | <b> Battery Management System (BWS) Lab
 <b> Experiment|     <b> State of Charge(Soc) and State of Health(SoH) Estimation of Li-ion Battery Packs
